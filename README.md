@@ -28,6 +28,4 @@ Think of it as a **traffic controller for inference** that dynamically balances:
 
 ## 📹 Demo Video
 
-<video src="ai-loadbalancer-demo.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
+<video src="https://github.com/user-attachments/assets/f75e1434-5c49-46bb-b071-740787335cee" controls width="600"></video>
