@@ -28,4 +28,4 @@ Think of it as a **traffic controller for inference** that dynamically balances:
 
 ---
 
-📹 **Demo Video:** [2025-07-08 11-39-33.mkv](2025-07-08%2011-39-33.mp4)
+📹 **Demo Video:** [2025-07-08 11-39-33.mp4](2025-07-08%2011-39-33.mp4)
