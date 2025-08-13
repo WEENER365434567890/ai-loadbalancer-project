@@ -28,6 +28,6 @@ Think of it as a **traffic controller for inference** that dynamically balances:
 
 ## 📹 Demo Video
 
-<video src="2025-07-08-11-39-33.mp4" controls width="600">
+<video src="2025-07-08 11-39-33.mp4" controls width="600">
   Your browser does not support the video tag.
 </video>
