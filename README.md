@@ -1,6 +1,6 @@
 # Multi-Region AI Load Balancer
 
-[![Watch the video](https://img.shields.io/badge/Video-Demo-blue)](2025-07-08%2011-39-33.mkv)
+[![Watch the video](https://img.shields.io/badge/Video-Demo-blue)](2025-07-08%2011-39-33.mp4)
 
 ## Overview
 I built a working MVP that routes inference requests across simulated GPU regions based on **latency** and **cost**.
@@ -28,4 +28,4 @@ Think of it as a **traffic controller for inference** that dynamically balances:
 
 ---
 
-📹 **Demo Video:** [2025-07-08 11-39-33.mkv](2025-07-08%2011-39-33.mkv)
+📹 **Demo Video:** [2025-07-08 11-39-33.mkv](2025-07-08%2011-39-33.mp4)
