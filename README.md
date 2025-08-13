@@ -1,6 +1,8 @@
 # Multi-Region AI Load Balancer
 
-[![Watch the video](https://img.shields.io/badge/Video-Demo-blue)](2025-07-08%2011-39-33.mp4)
+[![Watch the video]<video src="2025-07-08-11-39-33.mp4" controls width="600">
+  Your browser does not support the video tag.
+</video>
 
 ## Overview
 I built a working MVP that routes inference requests across simulated GPU regions based on **latency** and **cost**.
